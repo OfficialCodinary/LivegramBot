@@ -1,7 +1,7 @@
 # LivegramBot
 An eye-to-eye copy of the famous livegram bot
 
-##Setup
+## Setup
 It's easy! Just put the below properties in .env file!
  - `bot_token` (required)
  - `dbFile` (required)
