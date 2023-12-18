@@ -1,0 +1,31 @@
+{
+  "name": "livegram-bot",
+  "version": "1.0.0",
+  "description": "A free copy of the famous livegram bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "pm2Start": "pm2 main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialCodinary/LivegramBot.git"
+  },
+  "keywords": [
+    "Livegram",
+    "grammY",
+    "telegram",
+    "Bot",
+    "telegram-bot-api",
+    "ROBBING",
+    "GAMER",
+    "ROBBINGGAMER",
+    "Codinary"
+  ],
+  "author": "ROBBING GAMER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OfficialCodinary/LivegramBot/issues"
+  },
+  "homepage": "https://github.com/OfficialCodinary/LivegramBot#readme"
+}
